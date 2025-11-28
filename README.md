@@ -1,7 +1,9 @@
 # Hi there, I'm Bruno! 👋
 
-### I'm a Computer Science student and passionate about Software Development & Technology.
+### QA Automation Engineer | Software Development Engineer in Test
 
-- 🔭 I’m currently working as a QA Engineer at [Ualá](https://www.uala.com.ar/).
-- 🌱 I’m currently focused on Test Automation and DevOps.
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/feed/).
+- 💼 QA Automation Engineer with hands-on experience in the fintech industry.
+- 🤖 Specialized in automated testing (UI & API), test architecture, and continuous quality practices.
+- 🛠️ Skilled in tools and frameworks like Selenium, Playwright, Python, Java, TypeScript, and CI/CD.
+- 🚀 Passionate about building robust, scalable, and maintainable automation frameworks.
+- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/brunoaburto1/)).
