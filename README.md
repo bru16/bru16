@@ -6,4 +6,4 @@
 - 🤖 Specialized in automated testing (UI & API), test architecture, and continuous quality practices.
 - 🛠️ Skilled in tools and frameworks like Selenium, Playwright, Python, Java, TypeScript, and CI/CD.
 - 🚀 Passionate about building robust, scalable, and maintainable automation frameworks.
-- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/brunoaburto1/)).
+- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/brunoaburto1/]).
